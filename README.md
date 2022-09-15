@@ -44,7 +44,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhsinayaz&show_icons=true&theme=dark)
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=muhsinayaz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinayaz&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="50%" > </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muhsinayaz.muhsinayaz" />
