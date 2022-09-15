@@ -16,7 +16,7 @@
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com)
 [<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com)
 
-![Snake animation](https://github.com/muhsinayaz/muhsinayaz/blob/output/grid-snake.gif)
+![Snake animation](https://github.com/muhsinayaz/muhsinayaz/blob/output/grid-snake.svg)
 
 ### ✨ Python Libraries
 
