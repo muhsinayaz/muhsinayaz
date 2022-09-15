@@ -15,7 +15,8 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com)
 [<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com)
-[<img alt="Kaggle" src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/media/kaggle-gray.svg"/>](https://www.kaggle.com/mhsnayz)
+
+![Snake animation](https://github.com/muhsinayaz/muhsinayaz/blob/output/github-contribution-grid-snake.svg)
 
 ### ✨ Python Libraries
 
@@ -41,7 +42,9 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jira-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="jira"  /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-slack-580847?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /> </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhsinayaz&show_icons=true&theme=darc)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhsinayaz&show_icons=true&theme=dark)
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=muhsinayaz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinayaz&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="50%" > </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muhsinayaz.muhsinayaz" />
