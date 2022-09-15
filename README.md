@@ -1,15 +1,35 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-
-
 <!--
 **muhsinayaz/muhsinayaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I'm currently a bootcamp student on data science.
-- 🌱 I’m currently learning machine learning.
-- 🤔 I’m looking for help with finding a job.
+
+<p align="center">
+ <img src="https://github.com/muhsinayaz/muhsinayaz/blob/main/tal.gif" width="250px">
+</p>
+
+<!--
+<p align="center">
+ <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250px">
+</p>
+-->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=82F73B&center=true&vCenter=true&width=435&lines=Hello+I'm+Muhsin+Ayaz;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
+</p>
+
+
+
+
+
+<h2 align="left"> 
+Hi there
+<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+</h2>
+
+- 🔭 I'm currently a bootcamp student on <strong> data science. </strong>
+- 🌱 I’m currently learning <strong> machine learning.</strong>
+- 🤔 I’m looking for help with finding <strong> a job.</strong>
 - 💬 Ask me about anything.
 - 📫 How to reach me: mhsnayz@gmail.com
-- 🌍 I'm based in Turkey.
+- 🌍 I'm based in <strong> Turkey.</strong>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhsinayaz)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
@@ -35,12 +55,14 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLite-71a9d5?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLserver-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="SQLserver"/> </a>
 
+
 ### ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-GoogleSheets-46a13f?style=for-the-badge&logo=GoogleSheets&logoColor=1c3c5f" alt="Google Sheets" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jupyter-d37e02?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-jira-168bff?style=for-the-badge&logo=jira&logoColor=white" alt="jira"  /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-slack-580847?style=for-the-badge&logo=slack&logoColor=white" alt="slack" /> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt= "linux" /> </a>
 
 <br>
 
