@@ -69,5 +69,12 @@ Hi there
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=muhsinayaz&theme=chartreuse-dark&hide_border=true" alt="my github stats " width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=muhsinayaz&theme=chartreuse-dark&hide_border=true" alt="my commit status " width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinayaz&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinayaz&theme=chartreuse-dark&layout=compact&hide_border=true" alt="languages" width="50%" ></p>
+
+<!--
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=muhsinayaz&theme=react-dark" alt="muhsinayaz github activity graph" /></p> -->
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muhsinayaz.muhsinayaz" />
+
+
+
