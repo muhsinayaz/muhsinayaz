@@ -21,7 +21,7 @@
 
 <h2 align="left"> 
 Hi there
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<a href="https://github.com/muhsinayaz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 </h2>
 
 - 🔭 I'm currently a bootcamp student on <strong> data science. </strong>
@@ -35,16 +35,17 @@ Hi there
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com)
 [<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com)
+<a href="https://www.kaggle.com/mhsnayz"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue" height=30></a>  
 
 ![Snake animation](https://github.com/muhsinayaz/muhsinayaz/blob/output/github-contribution-grid-snake.svg)
 
 ### ✨ Python Libraries
 
-<a href="https://github.com/bzynpb/DataAnalysing_Python/tree/main/Numpy%20Exercises" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
-<a href="https://github.com/bzynpb/DataAnalysing_Python" target="_blank"> <img src="https://img.shields.io/badge/-Pandas-2c1957?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
-<a href="https://github.com/bzynpb/DataVisualisation_Python" target="_blank"> <img src="https://img.shields.io/badge/-Matplotlib-3286ae?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
+<a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
+<a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-Pandas-2c1957?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
+<a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-Matplotlib-3286ae?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-plotly-1c3c5f?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> </a>
-<a href="https://github.com/bzynpb/DataVisualisation_Python" target="_blank"> <img src="https://img.shields.io/badge/-seaborn-324b81?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /> </a>
+<a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-seaborn-324b81?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-scipy-6b95f5?style=for-the-badge&logo=scipy&logoColor=1c3c5f" alt="SciPy" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-scikitlearn-fcab5a?style=for-the-badge&logo=scikitlearn&logoColor=1c3c5f" alt="Scikit-Learn" /> </a>
 
