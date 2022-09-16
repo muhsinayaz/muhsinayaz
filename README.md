@@ -42,7 +42,7 @@ Hi there
 ### ✨ Python Libraries
 
 <a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /> </a>
-<a href="https://github.com/muhsinayaz/" target="_parent"> <img src="https://img.shields.io/badge/-Pandas-2c1957?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
+<a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-Pandas-2c1957?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
 <a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-Matplotlib-3286ae?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-plotly-1c3c5f?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /> </a>
 <a href="https://github.com/muhsinayaz/" target="_blank"> <img src="https://img.shields.io/badge/-seaborn-324b81?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" /> </a>
