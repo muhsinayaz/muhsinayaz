@@ -25,8 +25,7 @@ Hi there
 </h2>
 
 - 🔭 I'm currently a bootcamp student on <strong> data science. </strong>
-- 🌱 I’m currently learning <strong> machine learning.</strong>
-<!--, - 🤔 I’m looking for help with finding <strong> a job.</strong> -->
+- 🌱 I’m currently learning <strong> machine learning.</strong><!--, - 🤔 I’m looking for help with finding <strong> a job.</strong> -->
 - 💬 Ask me about anything.
 - 📫 How to reach me: mhsnayz@gmail.com
 - 🌍 I'm based in <strong> Turkey.</strong>
