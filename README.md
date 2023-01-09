@@ -15,9 +15,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&pause=1000&color=82F73B&center=true&vCenter=true&width=435&lines=Hello+I'm+Muhsin+Ayaz;Welcome+to+my+Github+profile" alt="Typing SVG" /></a>
 </p>
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-
-
 
 <h2 align="left"> 
 Hi there
@@ -76,8 +73,6 @@ Hi there
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=muhsinayaz&theme=react-dark" alt="muhsinayaz github activity graph" /></p> -->
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=muhsinayaz.muhsinayaz" />
-
-</div>
 
 
 
