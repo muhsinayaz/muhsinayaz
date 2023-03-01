@@ -33,7 +33,7 @@ Hi there
 [<img alt="Tableau" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"/>](https://public.tableau.com)
 <a href="https://www.kaggle.com/mhsnayz" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=blue" height=30></a>  
 
-![Snake animation](https://github.com/muhsinayaz/muhsinayaz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/muhsinayaz/muhsinayaz/blob/output/github-contribution-grid-snake-dark.svg)
 <br><sup>_generated with [Platane/snk](https://github.com/Platane/snk)_ </sup>
 
 ### ✨ Python Libraries
