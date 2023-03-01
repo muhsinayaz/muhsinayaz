@@ -21,8 +21,9 @@ Hi there
 <a href="https://github.com/muhsinayaz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 </h2>
 
-- 🔭 I'm currently a bootcamp student on <strong> data science. </strong>
-- 🌱 I’m currently learning <strong> machine learning.</strong><!--, - 🤔 I’m looking for help with finding <strong> a job.</strong> -->
+- 🔭 I'm interested in <strong> Artificial Intelligence </strong> and <strong> Data Science.</strong>
+- 🌱 I love <strong> research </strong> and <strong> development.</strong>
+- 🤔 I am currently looking for a  <strong> job. </strong>
 - 💬 Ask me about anything.
 - 📫 How to reach me: mhsnayz@gmail.com
 - 🌍 I'm based in <strong> Turkey.</strong>
