@@ -53,10 +53,10 @@ Hi there
 ### 🖥️ Languages
 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> </a>
-<!-- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-2e8e99?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a> -->
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLite-71a9d5?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite" /> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-SQLserver-648096?style=for-the-badge&logo=SQLserver&logoColor=white"  alt="SQLserver"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5"/> </a>
+<!-- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-2e8e99?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> </a> -->
 
 
 ### ⚙ Tools
